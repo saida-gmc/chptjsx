@@ -1,0 +1,15 @@
+.titleRed {
+  color: red;
+  text-align: center;
+}
+.myImage {
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+  border: solid red;
+  border-radius: 10px;
+  align-items: center;
+}
+.myVideo {
+  align-items: center;
+}
